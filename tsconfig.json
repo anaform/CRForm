@@ -14,8 +14,6 @@
     ],
     "files": [
         "./app.ts",
-        "./client/vendor/system.js/test/tests/testpkg/test.ts",
-        "./client/vendor/system.js/test/tests/typescript.ts",
         "./typings/angular2/angular2.d.ts"
     ]
 }
