@@ -1,0 +1,21 @@
+{
+    "version": "1.5.0-alpha",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./app.ts",
+        "./client/vendor/system.js/test/tests/testpkg/test.ts",
+        "./client/vendor/system.js/test/tests/typescript.ts",
+        "./typings/angular2/angular2.d.ts"
+    ]
+}

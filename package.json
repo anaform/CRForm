@@ -1,0 +1,29 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "jobsity-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "npm install",
+    "start": "http-server -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/rogerjose81/movie-app.git"
+  },
+  "keywords": [
+    "movie",
+    "app",
+    "test"
+  ],
+  "author": "Roger Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/rogerjose81/movie-app/issues"
+  },
+  "homepage": "https://gitlab.com/rogerjose81/movie-app#README",
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
+}
