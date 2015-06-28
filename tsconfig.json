@@ -1,19 +1,31 @@
 {
-    "version": "1.5.0-alpha",
+    "version": "1.5.0",
     "compilerOptions": {
         "target": "es5",
         "module": "commonjs",
-        "noImplicitAny": true,
-        "suppressImplicitAnyIndexErrors": true,
-        "experimentalDecorators": true,
-        "emitDecoratorMetadata": true
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "emitDecoratorMetadata": true,
+        "sourceMap": true,
+        "outDir": "dist"
     },
     "filesGlob": [
-        "./**/*.ts",
-        "!./node_modules/**/*.ts"
+        "typings/tsd.d.ts",
+        "src/**/*.ts"
     ],
     "files": [
-        "./app.ts",
-        "./typings/angular2/angular2.d.ts"
+        "typings/tsd.d.ts",
+        "src/app/bootstrap.ts",
+        "src/app/components/app.ts",
+        "src/app/components/dashboard.ts",
+        "src/app/components/dashboard/dashboard.ts",
+        "src/app/components/home/home.ts",
+        "src/app/components/todo/todo.ts",
+        "src/app/directives/Autofocus.ts",
+        "src/app/directives/directives.ts",
+        "src/app/services/TodoService.ts",
+        "src/app/services/services.ts"
     ]
 }
