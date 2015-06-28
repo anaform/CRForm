@@ -8,7 +8,7 @@
 * Custom Directives
 * Form (pending - broken in version alpha28 of angular2)
 
-The goal of this repository is to maintain a project always up-to-date with the very latest version of Angular2, while keep improving and adding features. Therefore being able to use it as an extremely minimal base to get up and running with Angular 2 and TypeScript. Using a [Webpack](http://webpack.github.io/) for building files and assisting with boilerplate.
+The goal of this repository is to maintain a project always up-to-date with the very latest version of Angular2, while keep improving and adding Angular2's features. Thus anyone can use it as an extremely minimal base to get up and running with Angular 2 and TypeScript. Using Webpack for assisting with boilerplate.
 
 ### Quick start
 ```bash
