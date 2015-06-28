@@ -2,12 +2,13 @@
 
 > A starter kit featuring:
 * Router
-* Core Directives
-* Component (View and Decorators)
+* Component
 * Dependence Injection
+* Core Directives
 * Custom Directives
+* Form (pending - broken in version alpha28 of angular2)
 
-This repo serves as an extremely minimal starter for anyone looking to get up and running with Angular 2 and TypeScript. Using a [Webpack](http://webpack.github.io/) for building files and assisting with boilerplate.
+The goal of this repository is to maintain a project always up-to-date with the very latest version of Angular2, while keep improving and adding features. Therefore being able to use it as an extremely minimal base to get up and running with Angular 2 and TypeScript. Using a [Webpack](http://webpack.github.io/) for building files and assisting with boilerplate.
 
 ### Quick start
 ```bash
