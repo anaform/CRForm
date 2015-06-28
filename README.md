@@ -8,7 +8,8 @@
 * Custom Directives
 * Form (pending - broken in version alpha28 of angular2)
 
-The goal of this repository is to maintain a project always up-to-date with the very latest version of Angular2, while keep improving and adding Angular2's features. Thus anyone can use it as an extremely minimal base to get up and running with Angular 2 and TypeScript. Using Webpack for assisting with boilerplate.
+## Goal
+Maintain an always up-to-date project using the very latest version of Angular2, while keep improving and using more Angular2's features. Thus anyone can use it as an extremely minimal base to get up and running with Angular 2 and TypeScript (using Webpack for assisting with boilerplate).
 
 ### Quick start
 ```bash
@@ -27,7 +28,7 @@ $ npm start # 2.
 * [Webstorm 10](https://www.jetbrains.com/webstorm/download/)
 * [Sublime Text](http://www.sublimetext.com/3) with [Typescript-Sublime-Plugin](https://github.com/Microsoft/Typescript-Sublime-plugin#installation)
 
-#### Credits
+### Credits
 The following projects have served as inspiration and help:
 - [angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter)
 - [ng2-play rj](https://github.com/rolandjitsu/ng2-play)
