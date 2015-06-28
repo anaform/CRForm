@@ -16,17 +16,16 @@ The goal of this repository is to maintain a project always up-to-date with the 
 $ npm start # 2.
 # 3. Open your browser and go to http://localhost:8080
 ```
+#### Tested on
+* Node.js 0.12.5
+* Chrome browser 43+
+* Firefox 38+
 
 #### Use a TypeScript-aware editor for view or edit the code.
 * [Atom](https://atom.io/) with [TypeScript plugin](https://atom.io/packages/atom-typescript)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Webstorm 10](https://www.jetbrains.com/webstorm/download/)
 * [Sublime Text](http://www.sublimetext.com/3) with [Typescript-Sublime-Plugin](https://github.com/Microsoft/Typescript-Sublime-plugin#installation)
-
-#### Tested on
-* Node.js 0.12.5
-* Chrome browser 43+
-* Firefox 38+
 
 #### Credits
 The following projects have served as inspiration and help:
