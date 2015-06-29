@@ -50,6 +50,6 @@ import {appDirectives} from '../directives/directives';
 export class App {
   title: string;
   constructor() {
-    this.title = 'Angular2 Minimal Starter';
+    this.title = 'Angular2 Minimalist Starter';
   }
 }
