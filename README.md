@@ -6,7 +6,7 @@
 * Dependence Injection
 * Core Directives
 * Custom Directives
-* Form (pending - broken in version alpha28 of angular2)
+* Form Builder (pending - broken in version alpha28)
 
 ## Goal
 Maintain an up-to-date project using the very latest version of Angular2, while keep improving and using more Angular2's features. Thus anyone can use it as an extremely minimal base to get up and running with Angular 2 and TypeScript (using Webpack for assisting with boilerplate).
