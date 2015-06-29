@@ -19,7 +19,6 @@
         "typings/tsd.d.ts",
         "src/app/bootstrap.ts",
         "src/app/components/app.ts",
-        "src/app/components/dashboard.ts",
         "src/app/components/dashboard/dashboard.ts",
         "src/app/components/home/home.ts",
         "src/app/components/todo/todo.ts",
