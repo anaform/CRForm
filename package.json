@@ -1,7 +1,7 @@
 {
-  "name": "angular2-webpack-starter",
+  "name": "angular2-Minimalist-starter",
   "version": "0.0.0",
-  "description": "An Angular 2 Webpack Starter kit featuring Angular 2, Router, TypeScript, and Webpack by AngularClass",
+  "description": "An Angular2 Minimalist Starter kit featuring Angular 2",
   "main": "",
   "scripts": {
     "build": "webpack",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-class/angular2-webpack-starter.git"
+    "url": "https://github.com/rogerpadilla/angular2-minimalist-starter.git"
   },
-  "author": "gdi2290 <github@gdi2290.com>",
+  "author": "Roger Padilla",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular-class/angular2-webpack-starter/issues"
+    "url": "https://github.com/rogerpadilla/angular2-minimalist-starter/issues"
   },
-  "homepage": "https://github.com/angular-class/angular2-webpack-starter",
+  "homepage": "https://github.com/rogerpadilla/angular2-minimalist-starter",
   "dependencies": {
     "angular2": "2.0.0-alpha.28",
     "raw-loader": "^0.5.1",
